@@ -1,0 +1,7 @@
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\MyFirstWeb.exe
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\appsettings.Development.json
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\appsettings.json
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\MyFirstWeb.dll
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\MyFirstWeb.deps.json
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\MyFirstWeb.runtimeconfig.json
+E:\AZ-204\Proj\MyFirstWeb\bin\Publish\MyFirstWeb.pdb

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e24d4d27-3506-4b68-ba89-fc496f719c78/resourceGroups/app-grp/providers/Microsoft.Web/sites/hsapp2",
+    "appService.deploySubpath": "bin\\Publish"
+}

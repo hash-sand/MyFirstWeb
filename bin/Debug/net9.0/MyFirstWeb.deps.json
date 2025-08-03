@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyFirstWeb/1.0.0": {
+        "runtime": {
+          "MyFirstWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
